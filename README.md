@@ -1,4 +1,4 @@
-# 👋 Muhammad Ramzan  
+# Muhammad Ramzan  
 ### 🚀 React Native / MERN Stack Developer  
 
 <p align="center">
@@ -51,12 +51,26 @@ Passionate **React Native & MERN Stack Developer** focused on building scalable 
 
 ---
 
-## 📊 GitHub Stats  
+## 💼 Experience  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer1zero1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer1zero1&layout=compact&theme=tokyonight" />
-</p>
+**React Native / Node JS Developer**  
+TX Dynamics (Jan 2023 – Present)  
+
+**MERN Stack Developer**  
+PNY Trainings (Oct 2022 – Jan 2023)  
+
+**Web Development Intern**  
+Lahore Leads University (Feb 2022 – May 2022)  
+
+---
+
+## 🎓 Education  
+
+**BS Computer Science**  
+University of Agriculture, Faisalabad  
+
+**B.Ed Home Economics**  
+University of Agriculture, Faisalabad  
 
 ---
 
@@ -89,29 +103,6 @@ Passionate **React Native & MERN Stack Developer** focused on building scalable 
 ### 🛒 E-commerce Store (MERN)  
 🛍️ Full shopping system  
 🔐 Auth + payments + Redux Toolkit  
-
----
-
-## 💼 Experience  
-
-**React Native / Node JS Developer**  
-TX Dynamics (Jan 2023 – Present)  
-
-**MERN Stack Developer**  
-PNY Trainings (Oct 2022 – Jan 2023)  
-
-**Web Development Intern**  
-Lahore Leads University (Feb 2022 – May 2022)  
-
----
-
-## 🎓 Education  
-
-**BS Computer Science**  
-University of Agriculture, Faisalabad  
-
-**B.Ed Home Economics**  
-University of Agriculture, Faisalabad  
 
 ---
 
