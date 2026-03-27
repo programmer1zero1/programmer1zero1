@@ -89,8 +89,6 @@ Results-driven **React Native & MERN Stack Developer** building scalable, high-p
 ### 💳 Payments & In-App Purchases
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![IAP](https://img.shields.io/badge/IAP-iOS%20%26%20Android-FF4500?style=for-the-badge&logo=appveyor&logoColor=white)
-![Apple Pay](https://img.shields.io/badge/Apple_Pay-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🔧 Version Control Systems    
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
