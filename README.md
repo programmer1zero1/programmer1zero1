@@ -40,45 +40,21 @@ Results-driven **React Native & MERN Stack Developer** building scalable, high-p
 ## 🛠️ Tech Stack  
 
 ### 🚀 Frontend  
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### ⚙️ Backend  
-![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=green)
-![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer1zero1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer1zero1&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=programmer1zero1&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer1zero1&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/programmer1zero1/programmer1zero1/output/github-contribution-grid-snake.svg" />
-</p>
+### 🔄 State Management  
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
@@ -102,6 +78,14 @@ PNY Trainings (Oct 2022 – Jan 2023)
 - Built REST APIs with Node.js & Express  
 - Managed state with Redux Toolkit  
 - Implemented authentication & database operations  
+
+---
+
+**Web Development Intern**  
+Lahore Leads University (Feb 2022 – May 2022)  
+
+- Assisted in building responsive web applications  
+- Worked on frontend UI and backend integration  
 
 ---
 
