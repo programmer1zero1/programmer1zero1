@@ -84,7 +84,7 @@ Results-driven **React Native & MERN Stack Developer** building scalable, high-p
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Style X](https://img.shields.io/badge/StyleX-FFA500?style=for-the-badge&logo=appveyor&logoColor=white)
-![Panda CSS](https://img.shields.io/badge/Panda_CSS-4B0082?style=for-the-badge&logo=appveyor&logoColor=white
+![Panda CSS](https://img.shields.io/badge/Panda_CSS-4B0082?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ### 💳 Payments & In-App Purchases
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
