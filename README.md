@@ -84,7 +84,13 @@ Results-driven **React Native & MERN Stack Developer** building scalable, high-p
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Style X](https://img.shields.io/badge/StyleX-FFA500?style=for-the-badge&logo=appveyor&logoColor=white)
-![Panda CSS](https://img.shields.io/badge/Panda_CSS-4B0082?style=for-the-badge&logo=appveyor&logoColor=white)
+![Panda CSS](https://img.shields.io/badge/Panda_CSS-4B0082?style=for-the-badge&logo=appveyor&logoColor=white
+
+### 💳 Payments & In-App Purchases
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![IAP](https://img.shields.io/badge/IAP-iOS%20%26%20Android-FF4500?style=for-the-badge&logo=appveyor&logoColor=white)
+![Apple Pay](https://img.shields.io/badge/Apple_Pay-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🔧 Version Control Systems    
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
