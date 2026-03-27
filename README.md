@@ -38,6 +38,9 @@ Results-driven **React Native & MERN Stack Developer** building scalable, high-p
 ---
 ## 🛠️ Tech Stack & Tools  
 
+#### 🏆 Main Language  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ### 🚀 Frontend  
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -83,8 +86,7 @@ Results-driven **React Native & MERN Stack Developer** building scalable, high-p
 ![Style X](https://img.shields.io/badge/StyleX-FFA500?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Panda CSS](https://img.shields.io/badge/Panda_CSS-4B0082?style=for-the-badge&logo=appveyor&logoColor=white)
 
-### 💻 Tools & Others  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### 🔧 Version Control Systems  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=white)
