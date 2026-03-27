@@ -39,6 +39,8 @@ Results-driven **React Native & MERN Stack Developer** building scalable, high-p
 
 ## 🛠️ Tech Stack  
 
+## 🛠️ Tech Stack  
+
 ### 🚀 Frontend  
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -53,7 +55,7 @@ Results-driven **React Native & MERN Stack Developer** building scalable, high-p
 ### 🔄 State Management  
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FFB500?style=for-the-badge&logo=appveyor&logoColor=white) 
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ---
