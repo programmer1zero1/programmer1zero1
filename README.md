@@ -264,7 +264,7 @@ Click below to view the project on respective platforms:
 #### 🧘 FaceYoga TG App  
 Face massage & wellness app with multi-language video support  
 
-- Full-stack implementation including video streaming & multi-language support  
+- Multi-language support  
 - In-App Purchases (iOS & Android)  
 - Protection against screen recording & screenshots  
 - Managed live process flows & interactions   
