@@ -66,60 +66,75 @@ Lahore Leads University (Feb 2022 – May 2022)
 
 ### 💳 Payments  
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![IAP](https://img.shields.io/badge/IAP-iOS%20%26%20Android-FF4500?style=for-the-badge)
+![IAP](https://img.shields.io/badge/In--App_Purchases-iOS%20%26%20Android-FF4500?style=for-the-badge)
 
 - Stripe Payment Integration  
-- In-App Purchases (iOS & Android)  
+- In-App Purchases (iOS & Android) – subscriptions & consumables  
 
 ---
 
 ### 🔔 Notifications  
-![Firebase](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Notifee](https://img.shields.io/badge/Notifee-000000?style=for-the-badge)
 ![OneSignal](https://img.shields.io/badge/OneSignal-EC1C24?style=for-the-badge&logo=onesignal&logoColor=white)
 
-- Firebase Cloud Messaging  
-- Notifee / OneSignal  
+- Firebase Cloud Messaging (FCM)  
+- Notifee (advanced local notifications)  
+- OneSignal (push notification service)  
 
 ---
 
 ### ⚡ Real-Time  
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 
-- Real-time updates using Socket.IO / WebSockets  
+- Real-time updates using Socket.IO  
+- WebSockets for live data synchronization  
 
 ---
 
 ### 🗺️ Maps & Location  
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Google Maps](https://img.shields.io/badge/React_Native_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Geolocation](https://img.shields.io/badge/Geolocation_API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Google Places](https://img.shields.io/badge/Google_Places-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 - React Native Maps  
 - Geolocation APIs  
-- Google Places & Reverse Geocoding  
+- Google Places / Autocomplete  
+- Reverse Geocoding  
 
 ---
 
-### 📊 Analytics  
-![Firebase Analytics](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 📊 Analytics & Attribution  
+![Firebase Analytics](https://img.shields.io/badge/Firebase_Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer-00AEEF?style=for-the-badge)
 
-- Firebase Analytics, GA4  
-- Mixpanel, AppsFlyer  
+- Firebase Analytics  
+- Google Analytics 4 (GA4)  
+- Mixpanel  
+- AppsFlyer (attribution & marketing analytics)  
 
 ---
 
 ### 🧪 Testing  
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Detox](https://img.shields.io/badge/Detox-000000?style=for-the-badge)
 
-- Jest, Detox  
+- Jest (unit & integration testing)  
+- Detox (end-to-end testing)  
 
 ---
 
-### ⚙️ CI/CD  
+### ⚙️ CI/CD & Deployment  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Firebase Distribution](https://img.shields.io/badge/Firebase_App_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Expo EAS](https://img.shields.io/badge/Expo_EAS-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-- GitHub Actions  
-- Firebase Distribution  
-- Expo EAS  
+- GitHub Actions (CI/CD automation)  
+- Firebase App Distribution (internal testing & builds)  
+- Expo EAS (build & deployment pipeline)   
 
 ---
 
