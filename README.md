@@ -142,6 +142,7 @@ Lahore Leads University (Feb 2022 – May 2022)
 
 ![Google Play](https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)
 ![App Store](https://img.shields.io/badge/Apple_App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
+![OTA Updates](https://img.shields.io/badge/OTA_Updates-FFA500?style=for-the-badge&logo=appveyor&logoColor=white)
 
 - Apps published on Google Play Store & Apple App Store  
 - Experience with production builds, releases & OTA updates  
