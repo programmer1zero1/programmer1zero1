@@ -269,6 +269,7 @@ Healthcare ecosystem connecting patients, doctors, and drivers
 - Built complete UI and integrated APIs for real-time data handling  
 - Implemented media uploads (images/videos)  
 - Designed smooth multi-step user flows  
+- Shifted to other team  
 
 ---
 
