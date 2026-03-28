@@ -240,6 +240,7 @@ Ride booking application
 
 - Developed complete UI for the app  
 - Focused on smooth booking flow, navigation & real-time updates  
+- Managed live process flows & interactions   
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cabz-app/id6483860512)  
@@ -252,6 +253,7 @@ Smart transport & parking solution
 
 - Built full UI for transport tracking & parking management  
 - Focused on performance, responsiveness & smooth UX  
+- Managed live process flows & interactions   
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bus-connect-app/id6502083416)  
