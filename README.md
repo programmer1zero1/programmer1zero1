@@ -212,74 +212,45 @@ Lahore Leads University (Feb 2022 – May 2022)
 
 ## 🚀 Featured Projects  
 
-### 💊 ScripId App  
-Healthcare ecosystem connecting patients, doctors, and drivers  
+### 🎨 UI Projects  
 
-**Tech Stack:**  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-- Built scalable order management system  
-- Integrated APIs for real-time data handling  
-- Implemented media uploads (images/videos)  
-- Designed smooth multi-step user flows  
-
----
-
-### 🚖 Cabz App  
-Ride booking application (similar to Careem/Uber)  
-
-**Tech Stack:**  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-- Designed complete booking flow  
-- Implemented real-time updates & navigation logic  
-- Focused on UI/UX and performance optimization  
-
----
-
-### 🚌 BusConnect App  
-Smart transport & parking solution  
-
-**Tech Stack:**  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-- Developed real-time tracking features  
-- Optimized app performance and responsiveness  
-
----
-
-### 💇 Studio32 App  
+#### 💇 Studio32 App  
 Salon services & product platform  
-
-**Tech Stack:**  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 - Implemented booking system & product purchases  
 - Built user-friendly UI for service selection  
 
 ---
 
-### 🛒 E-commerce Store (MERN)  
-Full-stack e-commerce platform  
+### ⚙️ UI & Integration Projects  
 
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+#### 💊 ScripId App  
+Healthcare ecosystem connecting patients, doctors, and drivers  
+
+- Built scalable order management system  
+- Integrated APIs for real-time data handling  
+- Implemented media uploads (images/videos)  
+- Designed smooth multi-step user flows  
+
+#### 🚖 Cabz App  
+Ride booking application (similar to Careem/Uber)  
+
+- Designed complete booking flow  
+- Implemented real-time updates & navigation logic  
+- Focused on UI/UX and performance optimization  
+
+#### 🚌 BusConnect App  
+Smart transport & parking solution  
+
+- Developed real-time tracking features  
+- Optimized app performance and responsiveness  
+
+---
+
+### 💻 Full Stack Projects  
+
+#### 🛒 E-commerce Store (MERN)  
+Full-stack e-commerce platform  
 
 - Authentication, payments & cart system  
 - Full CRUD operations & state management  
