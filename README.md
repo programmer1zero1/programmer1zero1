@@ -140,9 +140,13 @@ Lahore Leads University (Feb 2022 – May 2022)
 
 ### 🚀 Deployment Experience  
 
-- Apps published on **Google Play Store & Apple App Store**  
-- Experience with production builds, releases & updates  
-- Localization & multi-language apps  
+![Google Play](https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/Apple_App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
+
+- Apps published on Google Play Store & Apple App Store  
+- Experience with production builds, releases & OTA updates  
+- Managed app submissions, reviews, and version upgrades  
+- Localization & multi-language app support  
 
 ---
 
@@ -183,9 +187,10 @@ Lahore Leads University (Feb 2022 – May 2022)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🌐 API Handling  
+![Fetch](https://img.shields.io/badge/Fetch-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
-![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge)
+![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 
 ### 🎨 Styling  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
