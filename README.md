@@ -267,7 +267,7 @@ Face massage & wellness app with multi-language video support
 - Full-stack implementation including video streaming & multi-language support  
 - In-App Purchases (iOS & Android)  
 - Protection against screen recording & screenshots  
-- Managed live app interactions and backend integrations  
+- Managed live process flows & interactions   
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/face-yoga-tg/id6504173004)  
