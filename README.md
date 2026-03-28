@@ -210,24 +210,24 @@ Lahore Leads University (Feb 2022 – May 2022)
 
 ---
 
-## 🚀 Featured Projects  
+# 🚀 Featured Projects
 
-### 🎨 UI Projects  
+## 🎨 UI Projects
 
-#### 💇 Studio32 App  
-Salon services & product platform  
+### 💇 Studio32 App
+Salon services & product platform
 
-- Built complete UI for booking system & product purchases  
-- Focused on user-friendly interface & smooth user flows  
+- Built complete UI for booking system & product purchases
+- Focused on user-friendly interface & smooth user flows
 
 ---
 
-#### 🎟️ Ticket Central App  
-Event ticket booking & management application  
+### 🎟️ Ticket Central App
+Event ticket booking & management application
 
-- Completed first half UI  
-- Handed over second part to another developer  
-- Managed live process flows  
+- Completed first half UI
+- Handed over second part to another developer
+- Managed live process flows
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/ticketcentral/id6477536780)  
@@ -235,11 +235,11 @@ Click below to view the project on respective platforms:
 
 ---
 
-#### 🚖 Cabz App  
-Ride booking application  
+### 🚖 Cabz App
+Ride booking application
 
-- Developed complete UI for the app  
-- Focused on smooth booking flow, navigation & UX  
+- Developed complete UI for the app
+- Focused on smooth booking flow, navigation & UX
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cabz-app/id6483860512)  
@@ -247,11 +247,11 @@ Click below to view the project on respective platforms:
 
 ---
 
-#### 🚌 BusConnect App  
-Smart transport & parking solution  
+### 🚌 BusConnect App
+Smart transport & parking solution
 
-- Built full UI for transport tracking & parking management  
-- Focused on performance, responsiveness & smooth UX  
+- Built full UI for transport tracking & parking management
+- Focused on performance, responsiveness & smooth UX
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bus-connect-app/id6502083416)  
@@ -259,26 +259,40 @@ Click below to view the project on respective platforms:
 
 ---
 
-### ⚙️ UI & Integration Projects  
+### 🎨 Other UI Projects
 
-#### 💊 ScripId App  
-Healthcare ecosystem connecting patients, doctors, and drivers  
-
-- Built complete UI and integrated APIs for real-time data handling  
-- Implemented media uploads (images/videos)  
-- Designed smooth multi-step user flows  
-- Shifted to another team for continuation  
+- INME App  
+- Review Cut  
+- Talk Tango  
+- MY Insurance Bag  
+- One Up I  
+- Vibe Up  
+- Raha  
+- Mindcare  
+- Fit My Feet (currently working on integration)  
 
 ---
 
-### ⚙️ Integration Projects  
+## ⚙️ UI & Integration Projects
 
-#### 🧘 FaceYoga TG App  
-Face massage & wellness app with multi-language video support  
+### 💊 ScripId App
+Healthcare ecosystem connecting patients, doctors, and drivers
 
-- Multi-language support  
-- In-App Purchases (iOS & Android)  
-- Protection against screen recording & screenshots  
+- Built complete UI and integrated APIs for real-time data handling
+- Implemented media uploads (images/videos)
+- Designed smooth multi-step user flows
+- Shifted to another team for continuation
+
+---
+
+## ⚙️ Integration Projects
+
+### 🧘 FaceYoga TG App
+Face massage & wellness app with multi-language video support
+
+- Multi-language support
+- In-App Purchases (iOS & Android)
+- Protection against screen recording & screenshots
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/face-yoga-tg/id6504173004)  
@@ -286,11 +300,11 @@ Click below to view the project on respective platforms:
 
 ---
 
-### 🏗️ Live Process / App Publishing  
+## 🏗️ Live Process / App Publishing
 
-These apps were fully built by other teams or developers. Your contribution was **publishing them on Android & iOS stores**.  
+These apps were fully built by other teams or developers. Your contribution was **publishing them on Android & iOS stores**.
 
-#### 🚚 Haulcat Delivery App  
+### 🚚 Haulcat Delivery App
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/haulcat-delivery/id6654902961)  
@@ -298,7 +312,7 @@ Click below to view the project on respective platforms:
 
 ---
 
-#### 🚚 Haulcat User App  
+### 🚚 Haulcat User App
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/haulcat-user/id6648771964)  
@@ -306,14 +320,21 @@ Click below to view the project on respective platforms:
 
 ---
 
-### 💼 Full Stack Projects  
+## 💼 Full Stack Projects
 
-#### 🛒 E-commerce Store (MERN) Internship Project  
-Full-stack e-commerce platform  
+### 🛒 E-commerce Store (MERN) Internship Project
+Full-stack e-commerce platform
 
-- Authentication, payments & cart system  
-- Full CRUD operations & Redux Toolkit state management  
-- Responsive UI with modern styling  
+- Authentication, payments & cart system
+- Full CRUD operations & Redux Toolkit state management
+- Responsive UI with modern styling
+
+---
+
+### 🔧 SFI Full Stack Project (Not Published)
+
+- Completed full-stack implementation  
+- Ready for deployment but currently not published
 
 ---
 
