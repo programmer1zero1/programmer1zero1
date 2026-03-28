@@ -217,8 +217,30 @@ Lahore Leads University (Feb 2022 – May 2022)
 #### 💇 Studio32 App  
 Salon services & product platform  
 
-- Implemented booking system & product purchases  
-- Built user‑friendly UI for service selection  
+- Built complete UI for booking system & product purchases  
+- Focused on user-friendly interface & smooth user flows  
+
+---
+
+#### 🚖 Cabz App  
+Ride booking application (similar to Careem/Uber)  
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cabz-app/id6483860512)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cabz)  
+
+- Developed complete UI for the app  
+- Focused on smooth booking flow, navigation & real-time updates  
+
+---
+
+#### 🚌 BusConnect App  
+Smart transport & parking solution  
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bus-connect-app/id6502083416)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.busconnect)  
+
+- Built full UI for transport tracking & parking management  
+- Focused on performance, responsiveness & smooth UX  
 
 ---
 
@@ -227,62 +249,45 @@ Salon services & product platform
 #### 💊 ScripId App  
 Healthcare ecosystem connecting patients, doctors, and drivers  
 
-- Built scalable order management system  
-- Integrated APIs for real‑time data handling  
+- Built complete UI and integrated APIs for real-time data handling  
 - Implemented media uploads (images/videos)  
-- Designed smooth multi‑step user flows  
+- Designed smooth multi-step user flows  
 
-#### 🚖 Cabz App  
-Ride booking application (similar to Careem/Uber)  
-
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cabz-app/id6483860512)  
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cabz)
-
-- Designed complete booking flow  
-- Implemented real‑time updates & navigation logic  
-- Focused on UI/UX and performance optimization  
-
-#### 🚌 BusConnect App  
-Smart transport & parking solution — *Live on Android & iOS*  
-
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bus-connect-app/id6502083416)  
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.busconnect)
-
-- Developed real‑time tracking features  
-- Optimized app performance and responsiveness  
+---
 
 #### 🎟️ Ticket Central App  
-Event ticket booking & management application — *UI & integration work completed*  
+Event ticket booking & management application  
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/ticketcentral/id6477536780)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ticketcentralapp)  
 
-- Built complete UI for first half of the app  
-- Implemented live processes & integration  
-- Project later continued by another developer  
+- Completed first half UI & live process integration  
+- Handed over second part to another developer  
+- Managed live process flows & interactions  
 
 ---
 
 ### 💻 Full Stack Projects  
 
 #### 🛒 E-commerce Store (MERN)  
-Full‑stack e‑commerce platform  
+Full-stack e-commerce platform  
 
 - Authentication, payments & cart system  
-- Full CRUD operations & state management  
+- Full CRUD operations & Redux Toolkit state management  
 - Responsive UI with modern styling  
 
+---
+
 #### 🧘 FaceYoga TG App  
-Face massage & exercise application — *Live on Android & iOS*  
+Face massage & wellness app with multi-language video support  
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/face-yoga-tg/id6504173004)  
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.face_yoga)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.face_yoga)  
 
-- Multi‑language video playback & integration  
-- In‑App Purchases (iOS & Android)  
-- Live process handling & video streaming  
-- Screen protection (prevent screenshots & screen recording)  
-- Smooth UI/UX with performance optimization  
-
+- Full-stack implementation including video streaming & multi-language support  
+- In-App Purchases (iOS & Android)  
+- Protection against screen recording & screenshots  
+- Managed live app interactions and backend integrations  
 
 ---
 
