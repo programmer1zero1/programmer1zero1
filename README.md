@@ -222,25 +222,40 @@ Salon services & product platform
 
 ---
 
-#### 🚖 Cabz App  
-Ride booking application (similar to Careem/Uber)  
+#### 🎟️ Ticket Central App  
+Event ticket booking & management application  
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cabz-app/id6483860512)  
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cabz)  
+- Completed first half UI & live process integration  
+- Handed over second part to another developer  
+- Managed live process flows & interactions  
+
+Click below to view the project on respective platforms:  
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/ticketcentral/id6477536780)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ticketcentralapp)  
+
+---
+
+#### 🚖 Cabz App  
+Ride booking application  
 
 - Developed complete UI for the app  
 - Focused on smooth booking flow, navigation & real-time updates  
+
+Click below to view the project on respective platforms:  
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cabz-app/id6483860512)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cabz)  
 
 ---
 
 #### 🚌 BusConnect App  
 Smart transport & parking solution  
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bus-connect-app/id6502083416)  
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.busconnect)  
-
 - Built full UI for transport tracking & parking management  
 - Focused on performance, responsiveness & smooth UX  
+
+Click below to view the project on respective platforms:  
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bus-connect-app/id6502083416)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.busconnect)  
 
 ---
 
@@ -255,19 +270,23 @@ Healthcare ecosystem connecting patients, doctors, and drivers
 
 ---
 
-#### 🎟️ Ticket Central App  
-Event ticket booking & management application  
+### 💻 Full Stack Projects  
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/ticketcentral/id6477536780)  
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ticketcentralapp)  
+#### 🧘 FaceYoga TG App  
+Face massage & wellness app with multi-language video support  
 
-- Completed first half UI & live process integration  
-- Handed over second part to another developer  
-- Managed live process flows & interactions  
+- Full-stack implementation including video streaming & multi-language support  
+- In-App Purchases (iOS & Android)  
+- Protection against screen recording & screenshots  
+- Managed live app interactions and backend integrations  
+
+Click below to view the project on respective platforms:  
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/face-yoga-tg/id6504173004)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.face_yoga)  
 
 ---
 
-### 💻 Full Stack Projects  
+### 💼 Internship Projects  
 
 #### 🛒 E-commerce Store (MERN)  
 Full-stack e-commerce platform  
@@ -275,19 +294,6 @@ Full-stack e-commerce platform
 - Authentication, payments & cart system  
 - Full CRUD operations & Redux Toolkit state management  
 - Responsive UI with modern styling  
-
----
-
-#### 🧘 FaceYoga TG App  
-Face massage & wellness app with multi-language video support  
-
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/face-yoga-tg/id6504173004)  
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.face_yoga)  
-
-- Full-stack implementation including video streaming & multi-language support  
-- In-App Purchases (iOS & Android)  
-- Protection against screen recording & screenshots  
-- Managed live app interactions and backend integrations  
 
 ---
 
