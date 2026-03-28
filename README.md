@@ -225,9 +225,9 @@ Salon services & product platform
 #### 🎟️ Ticket Central App  
 Event ticket booking & management application  
 
-- Completed first half UI & live process integration  
+- Completed first half UI  
 - Handed over second part to another developer  
-- Managed live process flows & interactions  
+- Managed live process flows  
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/ticketcentral/id6477536780)  
@@ -239,8 +239,7 @@ Click below to view the project on respective platforms:
 Ride booking application  
 
 - Developed complete UI for the app  
-- Focused on smooth booking flow, navigation & real-time updates  
-- Managed live process flows & interactions   
+- Focused on smooth booking flow, navigation & UX  
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cabz-app/id6483860512)  
@@ -253,7 +252,6 @@ Smart transport & parking solution
 
 - Built full UI for transport tracking & parking management  
 - Focused on performance, responsiveness & smooth UX  
-- Managed live process flows & interactions   
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bus-connect-app/id6502083416)  
@@ -269,7 +267,7 @@ Healthcare ecosystem connecting patients, doctors, and drivers
 - Built complete UI and integrated APIs for real-time data handling  
 - Implemented media uploads (images/videos)  
 - Designed smooth multi-step user flows  
-- Shifted to other team  
+- Shifted to another team for continuation  
 
 ---
 
@@ -281,7 +279,6 @@ Face massage & wellness app with multi-language video support
 - Multi-language support  
 - In-App Purchases (iOS & Android)  
 - Protection against screen recording & screenshots  
-- Managed live process flows & interactions   
 
 Click below to view the project on respective platforms:  
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/face-yoga-tg/id6504173004)  
@@ -289,9 +286,29 @@ Click below to view the project on respective platforms:
 
 ---
 
-### 💼 Full stack Projects  
+### 🏗️ Live Process / App Publishing  
 
-#### 🛒 E-commerce Store (MERN) Internship Porject 
+These apps were fully built by other teams or developers. Your contribution was **publishing them on Android & iOS stores**.  
+
+#### 🚚 Haulcat Delivery App  
+
+Click below to view the project on respective platforms:  
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/haulcat-delivery/id6654902961)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.haulcat.delivery)  
+
+---
+
+#### 🚚 Haulcat User App  
+
+Click below to view the project on respective platforms:  
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/haulcat-user/id6648771964)  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.haulcat.haulcatuser)  
+
+---
+
+### 💼 Full Stack Projects  
+
+#### 🛒 E-commerce Store (MERN) Internship Project  
 Full-stack e-commerce platform  
 
 - Authentication, payments & cart system  
