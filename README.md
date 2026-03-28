@@ -36,29 +36,29 @@ Results-driven **React Native & MERN Stack Developer** with hands-on experience 
 **React Native / Node JS Developer**  
 TX Dynamics (May 2023 – Present)  
 
-- Developed and maintained **production-level mobile applications** using React Native  
-- Integrated REST APIs and handled complex business logic & workflows  
-- Implemented features like **In-App Purchases, media uploads, real-time updates, and scanning systems**  
-- Optimized performance, reduced app load times, and improved user experience  
-- Worked on **apps published on Google Play Store & Apple App Store**, handling deployment, updates, and bug fixes  
+- Built and maintained production-level mobile apps  
+- Integrated REST APIs & handled complex workflows  
+- Implemented **IAP, media uploads, real-time systems, scanning features**  
+- Optimized performance and improved UX  
+- Worked on apps live on **Play Store & App Store (deployment + updates)**  
 
 ---
 
 **MERN Stack Developer**  
 PNY Trainings (Oct 2022 – Jan 2023)  
 
-- Built full-stack applications using MERN stack  
-- Designed and developed REST APIs  
-- Managed global state using Redux Toolkit  
-- Implemented authentication and database logic  
+- Developed full-stack applications  
+- Built REST APIs using Node.js & Express  
+- State management using Redux Toolkit  
+- Authentication & database integration  
 
 ---
 
 **Web Development Intern**  
 Lahore Leads University (Feb 2022 – May 2022)  
 
-- Worked on responsive UI development  
-- Assisted in backend integration and feature implementation  
+- Worked on responsive UI  
+- Assisted backend integrations  
 
 ---
 
@@ -68,69 +68,74 @@ Lahore Leads University (Feb 2022 – May 2022)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![IAP](https://img.shields.io/badge/IAP-iOS%20%26%20Android-FF4500?style=for-the-badge)
 
-- Integrated **Stripe payment gateway**  
-- Implemented **In-App Purchases (iOS & Android)** including subscriptions and consumables  
+- Stripe Payment Integration  
+- In-App Purchases (iOS & Android)  
 
 ---
 
 ### 🔔 Notifications  
 ![Firebase](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OneSignal](https://img.shields.io/badge/OneSignal-EC1C24?style=for-the-badge&logo=onesignal&logoColor=white)
 
-- Push notifications using Firebase Cloud Messaging  
-- Local & advanced notifications using Notifee / OneSignal  
-
----
-
-### ⚡ Real-Time Systems  
-
-- Implemented real-time updates using **Socket.IO & WebSockets**  
-- Used for live tracking, chat systems, and dynamic app updates  
+- Firebase Cloud Messaging  
+- Notifee / OneSignal  
 
 ---
 
-### 🗺️ Maps & Location Services  
+### ⚡ Real-Time  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-- Integrated maps using React Native Maps  
-- Implemented Geolocation APIs for live tracking  
-- Google Places, Autocomplete & Reverse Geocoding  
+- Real-time updates using Socket.IO / WebSockets  
 
 ---
 
-### 📊 Analytics & Attribution  
+### 🗺️ Maps & Location  
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-- Firebase Analytics, GA4, Mixpanel for user tracking  
-- AppsFlyer for attribution & marketing analytics  
+- React Native Maps  
+- Geolocation APIs  
+- Google Places & Reverse Geocoding  
+
+---
+
+### 📊 Analytics  
+![Firebase Analytics](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+
+- Firebase Analytics, GA4  
+- Mixpanel, AppsFlyer  
 
 ---
 
 ### 🧪 Testing  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-- Unit and integration testing using Jest  
-- End-to-end testing using Detox  
-
----
-
-### ⚙️ CI/CD & Deployment  
-
-- Automated builds using GitHub Actions  
-- App distribution via Firebase App Distribution  
-- Managed builds using Expo EAS  
+- Jest, Detox  
 
 ---
 
-### 🚀 App Release Experience  
+### ⚙️ CI/CD  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- Successfully deployed apps on **Google Play Store & Apple App Store**  
-- Experience handling app review processes, updates, and production issues  
-- Implemented localization and multi-language support  
+- GitHub Actions  
+- Firebase Distribution  
+- Expo EAS  
+
+---
+
+### 🚀 Deployment Experience  
+
+- Apps published on **Google Play Store & Apple App Store**  
+- Experience with production builds, releases & updates  
+- Localization & multi-language apps  
 
 ---
 
 ### 🧠 Advanced / R&D  
 
-- Worked with **React Native Filament** for 3D models (GLB, OBJ, STL)  
-- Implemented **Vision Camera** for real-time scanning  
-- Used **BlinkID SDK** for card scanning & data extraction  
+- React Native Filament (3D models: GLB, STL, OBJ)  
+- Vision Camera (scanning)  
+- BlinkID SDK (card scanning)  
 
 ---
 
@@ -146,16 +151,15 @@ Lahore Leads University (Feb 2022 – May 2022)
 
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-524CB5?style=for-the-badge&logo=realm&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-524CB5?style=for-the-badge)
 
-### 💾 Local Storage & Offline  
+### 💾 Local Storage  
 ![Async Storage](https://img.shields.io/badge/Async_Storage-000000?style=for-the-badge)
 ![MMKV](https://img.shields.io/badge/MMKV-00BFFF?style=for-the-badge)
-![Local Storage](https://img.shields.io/badge/Local_Storage-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔄 State Management  
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -163,52 +167,34 @@ Lahore Leads University (Feb 2022 – May 2022)
 ![Zustand](https://img.shields.io/badge/Zustand-FFB500?style=for-the-badge)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-### 🌐 API & Data Handling  
+### 🌐 API Handling  
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge)
 
 ### 🎨 Styling  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge)
+![StyleX](https://img.shields.io/badge/StyleX-FFA500?style=for-the-badge)
+![Panda CSS](https://img.shields.io/badge/Panda_CSS-4B0082?style=for-the-badge)
 
 ### 🔧 Version Control  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects  
 
-### 💊 ScripId App  
-- Healthcare ecosystem (patients, doctors, drivers)  
-- Order management system with API integrations  
-- Media uploads & multi-step workflows  
-
----
-
-### 🚖 Cabz App  
-- Ride booking system with real-time updates  
-- Smooth user experience and optimized flows  
-
----
-
-### 🚌 BusConnect App  
-- Smart transport and tracking solution  
-- Performance-focused implementation  
-
----
-
-### 💇 Studio32 App  
-- Booking system with product purchasing  
-- Clean UI and optimized UX  
-
----
-
-### 🛒 E-commerce (MERN)  
-- Full-stack application with authentication and payments  
-- State management using Redux Toolkit  
+- ScripId → Healthcare ecosystem  
+- Cabz → Ride booking system  
+- BusConnect → Transport tracking  
+- Studio32 → Booking + ecommerce  
+- MERN Store → Full-stack ecommerce  
 
 ---
 
