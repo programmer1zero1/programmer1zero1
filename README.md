@@ -261,17 +261,6 @@ Click below to view the project on respective platforms:
 
 ### ⚙️ UI & Integration Projects  
 
-#### 💊 ScripId App  
-Healthcare ecosystem connecting patients, doctors, and drivers  
-
-- Built complete UI and integrated APIs for real-time data handling  
-- Implemented media uploads (images/videos)  
-- Designed smooth multi-step user flows  
-
----
-
-### 💻 Full Stack Projects  
-
 #### 🧘 FaceYoga TG App  
 Face massage & wellness app with multi-language video support  
 
@@ -286,9 +275,18 @@ Click below to view the project on respective platforms:
 
 ---
 
-### 💼 Internship Projects  
+#### 💊 ScripId App  
+Healthcare ecosystem connecting patients, doctors, and drivers  
 
-#### 🛒 E-commerce Store (MERN)  
+- Built complete UI and integrated APIs for real-time data handling  
+- Implemented media uploads (images/videos)  
+- Designed smooth multi-step user flows  
+
+---
+
+### 💼 Full stack Projects  
+
+#### 🛒 E-commerce Store (MERN) Internship Porject 
 Full-stack e-commerce platform  
 
 - Authentication, payments & cart system  
