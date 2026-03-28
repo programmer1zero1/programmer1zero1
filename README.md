@@ -127,14 +127,16 @@ Lahore Leads University (Feb 2022 – May 2022)
 
 ---
 
-### ⚙️ CI/CD & Deployment  
+### ⚙️ CI/CD & OTA Updates  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Firebase Distribution](https://img.shields.io/badge/Firebase_App_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Expo EAS](https://img.shields.io/badge/Expo_EAS-000020?style=for-the-badge&logo=expo&logoColor=white)
+![OTA Updates](https://img.shields.io/badge/OTA_Updates-FFA500?style=for-the-badge&logo=appveyor&logoColor=white)
 
 - GitHub Actions (CI/CD automation)  
 - Firebase App Distribution (internal testing & builds)  
-- Expo EAS (build & deployment pipeline)   
+- Expo EAS (build & deployment pipeline)  
+- OTA Updates (push updates directly to users without store approval)  
 
 ---
 
@@ -142,11 +144,10 @@ Lahore Leads University (Feb 2022 – May 2022)
 
 ![Google Play](https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)
 ![App Store](https://img.shields.io/badge/Apple_App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
-![OTA Updates](https://img.shields.io/badge/OTA_Updates-FFA500?style=for-the-badge&logo=appveyor&logoColor=white)
 
 - Apps published on Google Play Store & Apple App Store  
-- Experience with production builds, releases & OTA updates  
-- Managed app submissions, reviews, and version upgrades  
+- Experience with production builds, releases & version upgrades  
+- Managed app submissions, reviews, and store approvals  
 - Localization & multi-language app support  
 
 ---
