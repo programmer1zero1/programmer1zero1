@@ -1,4 +1,7 @@
 # Muhammad Ramzan  
+📄🟦 Download My CV – Muhammad Ramzan, React Native Developer
+https://github.com/programmer1zero1/CV/raw/main/Muhammad_Ramzan_ReactNative_Developer_Resume.pdf
+
 ### 🚀 React Native / MERN Stack Developer  
 
 <p align="center">
