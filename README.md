@@ -1,7 +1,4 @@
 # Muhammad Ramzan  
-📄🟦 Download My CV – Muhammad Ramzan, React Native Developer
-https://github.com/programmer1zero1/CV/raw/main/Muhammad_Ramzan_ReactNative_Developer_Resume.pdf
-
 ### 🚀 React Native / MERN Stack Developer  
 
 <p align="center">
@@ -18,6 +15,9 @@ https://github.com/programmer1zero1/CV/raw/main/Muhammad_Ramzan_ReactNative_Deve
 <p align="left">
 <a href="https://linkedin.com/in/programmer1zero1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/programmer1zero1"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/programmer1zero1/CV/raw/main/Muhammad_Ramzan_ReactNative_Developer_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+</a>
 </p>
 
 ---
