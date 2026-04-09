@@ -18,6 +18,9 @@
 <a href="https://github.com/programmer1zero1/CV/raw/main/Muhammad_Ramzan_ReactNative_Developer_Resume.pdf">
   <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
 </a>
+<a href="https://github.com/programmer1zero1/CV/raw/main/Muhammad_Ramzan_ReactNative_Developer_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+</a>
 </p>
 
 ---
